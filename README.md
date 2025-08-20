@@ -3,7 +3,8 @@ A modern, interactive visualization tool for different sorting algorithms includ
 
 
 
-![visualizer](vis.png)
+![Visualizer](sorting-algorithms-visualizer-main/vis.png)
+
 
 ## ✨ **New Features & Enhancements**
 
